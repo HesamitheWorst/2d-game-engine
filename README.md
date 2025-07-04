@@ -1,5 +1,14 @@
-This is a 2d game engine which is used to make a clone of the classic Super Mario, it was made from a tutorial from the youtube channel freecodecamp.org which I will put the link below.
-it is not my own project and im only following the tutorial , and i did it just to have a better grasp on things like object oriented programming , low level programming in java , graphics designs , input handlings and loops in game , once i get comfortable I will add more features to the project, for now its just a side gig for when im bored :
+# Java 2D Game Engine (Tutorial-based)
 
+This is a 2D game engine I'm building by following a tutorial from [freeCodeCamp.org](https://youtu.be/025QFeZfeyM?si=kt0sh-chDz0Qf6X5).  
+The goal of the engine is to create a clone of the classic Super Mario Bros game.
 
-https://youtu.be/025QFeZfeyM?si=kt0sh-chDz0Qf6X5
+⚠️ This is **not** my original project — I'm following the tutorial step-by-step to better understand:
+
+- Object-oriented programming (OOP) in Java  
+- Low-level graphics and rendering  
+- Input handling  
+- Game loops and state management  
+
+Right now, it’s just a learning side project I work on when I’m bored.  
+Once I get more comfortable, I plan to experiment by adding new features and making it my own.
